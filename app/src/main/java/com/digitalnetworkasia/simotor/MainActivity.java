@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         nohp = findViewById(R.id.nohp);
         button = findViewById(R.id.button);
-        //tes
+        //te
     }
 
     @Override
