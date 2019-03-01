@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "911128046938",
+    "firebase_url": "https://simotor.firebaseio.com",
+    "project_id": "simotor",
+    "storage_bucket": "simotor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911128046938:android:34339ae26e5678c7",
+        "android_client_info": {
+          "package_name": "com.digitalnetworkasia.simotor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911128046938-kn7hqcgftk2b4bl4nbg2h9kd4rpee9rg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_0i2Ij4wRCryb6AXz2xf1OfEeyKz8qj0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
